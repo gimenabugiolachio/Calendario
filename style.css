@@ -13,6 +13,8 @@ body{
 }
 
 .calendar{
+    margin-left: 5%;
+    max-width: 90vw;
     padding: 20px 40px;
 }
 
